@@ -3,9 +3,5 @@ Time series analysis of sunspot data from https://www.kaggle.com/datasets/abhina
 
 Initial analysis complete;  next iteration will leverage grid search to determine best combination of parameters.
 
-## Necessary Packages
-pandas
-matplotlib
-re
-statsmodels
-sklearn
+## Installation
+Install dependencies: ''' pip install pandas matplotlib re statsmodels sklearn '''
